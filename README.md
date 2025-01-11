@@ -55,8 +55,5 @@ This project involves creating an interactive dashboard using Power BI and Excel
 
 ---
 
-## **Usage**  
-1. Clone this repository.  
-2. Download the dataset and place it in the project directory.  
-3. Open the Excel file for data cleaning steps.  
-4. Import the cleaned dataset into Power BI and explore the dashboard 
+## **Thank You**  
+
