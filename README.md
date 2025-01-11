@@ -36,8 +36,8 @@ This project involves creating an interactive dashboard using Power BI and Excel
 - Highlight key findings from the dashboard, such as trends, patterns, or anomalies in the data.  
 
 ### **5. Final Output**  
-- Export the Power BI dashboard as a .pbix file.  
-- Share screenshots or publish the report to the Power BI service (if applicable).  
+- ![Screenshot 2025-01-11 164136](https://github.com/user-attachments/assets/0ac04119-960a-4111-8de4-26420132d978)
+
 
 ---
 
