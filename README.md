@@ -4,7 +4,7 @@ Here’s a structured **README** template for your GitHub project:
 
 ---
 
-# **Power BI Dashboard for Kaggle Dataset**  
+# **Power BI Dashboard for Super Market Sales**  
 
 ## **Project Description**  
 This project involves creating an interactive dashboard using Power BI and Excel to analyze and visualize a dataset sourced from Kaggle. The focus is on cleaning, transforming, and visualizing data to extract meaningful insights.
