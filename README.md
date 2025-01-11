@@ -1,5 +1,5 @@
 # Super_Market_Sales_Dashboard
-Created an interactive dashboard using Power BI and Excel to analyze a Kaggle dataset. Cleaned and transformed raw data in Excel, ensuring accuracy and consistency. Designed visuals in Power BI to showcase key insights, trends, and patterns, demonstrating advanced data cleaning, analysis, and visualization skills.
+Created an interactive dashboard using Power BI and Excel to analyze Super Market Sales dataset. Cleaned and transformed raw data in Excel, ensuring accuracy and consistency. Designed visuals in Power BI to showcase key insights, trends, and patterns, demonstrating advanced data cleaning, analysis, and visualization skills.
 Here’s a structured **README** template for your GitHub project:  
 
 ---
@@ -38,14 +38,6 @@ This project involves creating an interactive dashboard using Power BI and Excel
 ### **5. Final Output**  
 - ![Screenshot 2025-01-11 164136](https://github.com/user-attachments/assets/0ac04119-960a-4111-8de4-26420132d978)
 
-
----
-
-## **Project Files**  
-- **Dataset**: Include a link or file reference for the dataset used.  
-- **Excel File**: Uploaded cleaned and preprocessed data.  
-- **Power BI File**: .pbix file containing the final dashboard.  
-- **Screenshots**: Images of the dashboard for a quick preview.
 
 ---
 
