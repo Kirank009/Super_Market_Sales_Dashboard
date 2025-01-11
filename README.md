@@ -39,7 +39,6 @@ This project involves creating an interactive dashboard using Power BI and Excel
 - ![Screenshot 2025-01-11 164136](https://github.com/user-attachments/assets/0ac04119-960a-4111-8de4-26420132d978)
 
 
----
 
 ## **Tools and Technologies**  
 - **Power BI**: For data visualization and dashboard creation.  
